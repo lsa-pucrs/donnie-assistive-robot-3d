@@ -1,22 +1,24 @@
-# donnie-assistive-robot-3d
-Donnie's model for 3D printer
+# Donnie's Body
 
-#### Material: ####
-PLA 500g  
-Obs: We use PLA because its low retraction factor in large pieces.
+This repository has all files required to build the Donnie's body with a 3D printer.
 
-#### Production: ####
+## Required Material 
 
-.1. To print use the stl files in the stl_files folder.  
-.2. We use <a href="http://slic3r.org/">Slicer (1.2.9) </a> to slice and 3d printing the robot.   
-Obs: We use the following configs on slicer:   
-Infill: 20%  
-Layer height: 0.3mm  
-Without support (parts that need support have it in the model).  
+Donnie requires about 500g of PLA. We use PLA because its low retraction factor in large pieces.
+
+## Production Phase
+
+ 1. The 3D printer requires the stl files, in the stl_files folder.  
+ 2. We use [Slicer (1.2.9)](http://slic3r.org/) to slice and 3d printing the robot. We use the following configs on slicer:
+   * Infill: 20%; 
+   * Layer height: 0.3mm;
+   * Without support (parts that need support have it in the model).
 
 
-#### Modification: ####
-We use the Solidworks 2014 to modelling the robot. And the source files are in the solidworks directory.  
+## Modifying Donnie's Body
 
-#### Visualization: ####
-You can visualize the 3D PDF files with <a href="http://www.adobe.com/">Adobe Reader 9</a> or above. You just need to click in "Enable 3D View" when open the 3D PDF.
+We used the Solidworks 2014 to model the robot. All the source files are in the solidworks directory.  
+
+## Visualization
+
+You can visualize the 3D PDF files with [Adobe Reader 9](http://www.adobe.com/) or above. You just need to click in "Enable 3D View" when open the 3D PDF.
