@@ -22,3 +22,7 @@ We used the Solidworks 2014 to model the robot. All the source files are in the 
 ## Visualization
 
 You can visualize the 3D PDF files with [Adobe Reader 9](http://www.adobe.com/) or above. You just need to click in "Enable 3D View" when open the 3D PDF.
+
+<p align="center">
+  <img https://github.com/lsa-pucrs/donnie-assistive-robot-3d/blob/master/screenshot.png>
+</p>
