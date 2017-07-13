@@ -1,6 +1,6 @@
 # Donnie's Body
 
-This repository has all files required to build the Donnie's body with a 3D printer.
+This repository has all files required to build the Donnie's body with a 3D printer. 
 
 ## Required Material 
 
